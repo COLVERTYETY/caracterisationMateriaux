@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "A4988_STEPPER_MOTOR_DRIVER_CARRIER")(type "Legacy")(uri "${KIPRJMOD}/imports/A4988_STEPPER_MOTOR_DRIVER_CARRIER.lib")(options "")(descr ""))
+  (lib (name "PEC11R-4215F-S0024")(type "Legacy")(uri "${KIPRJMOD}/imports/PEC11R-4215F-S0024.lib")(options "")(descr ""))
+)
